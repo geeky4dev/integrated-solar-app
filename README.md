@@ -14,7 +14,7 @@ This project connects **four specialized solar tools** into a **central hub**:
 | 🌞 **Solar AI Designer** | AI‑powered rooftop PV design assistant. | https://solar-ai-designer-backend.onrender.com | https://solar-ai-designer-frontend.onrender.com |
 | 📊 **Solar Radiation Dashboard** | Explore solar radiation trends & maps. | https://solar-dashboard-ar8s.onrender.com | https://solar-dashboard-1.onrender.com |
 | 🎯 **Solar Optimizer** (Tilt & Azimuth) | Find best tilt & orientation for panels. | https://solar-optimizer-backend.onrender.com | https://solar-orientation-tilt-app.onrender.com |
-| 💰 **Solar Savings Calculator** | Estimate cost savings & ROI. | *(Render backend URL)* | https://solar-savings-app-frontend.onrender.com |
+| 💰 **Solar Savings Calculator** | Estimate cost savings & ROI. | https://solar-savings-app-backend.onrender.com | https://solar-savings-app-frontend.onrender.com |
 
 ---
 
