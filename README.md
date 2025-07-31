@@ -29,46 +29,46 @@ The **Integrated Solar App** uses:
 
 **Architecture Diagram:**
 
-[ User Browser ]
-|
-v
-[ Frontend Host (React) ]
-|
-v
-[ Backend Orchestrator (Flask) ]
-|
-+--> Solar AI Designer API
-+--> Solar Radiation Dashboard API
-+--> Solar Optimizer API
-+--> Solar Savings Calculator API
+[ User Browser ]  
+|  
+v  
+[ Frontend Host (React) ]  
+|  
+v  
+[ Backend Orchestrator (Flask) ]  
+|  
++--> Solar AI Designer API  
++--> Solar Radiation Dashboard API  
++--> Solar Optimizer API  
++--> Solar Savings Calculator API  
 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure  
 
-Integrated-Solar-App/
-├── backend-orchestrator/ # Flask - API Gateway
-│ ├── app.py
-│ ├── requirements.txt
-│ ├── runtime.txt
-│ └── Procfile
-├── frontend-host/ # React - Micro-frontend host
-│ ├── index.html
-│ ├── package.json
-│ ├── vite.config.js
-│ └── src/
-│ ├── App.jsx
-│ └── components/
-├── README.md
-└── docker-compose.yml # Optional for local integration
+Integrated-Solar-App/  
+├── backend-orchestrator/ # Flask - API Gateway  
+│ ├── app.py  
+│ ├── requirements.txt  
+│ ├── runtime.txt  
+│ └── Procfile  
+├── frontend-host/ # React - Micro-frontend host  
+│ ├── index.html  
+│ ├── package.json  
+│ ├── vite.config.js  
+│ └── src/  
+│ ├── App.jsx  
+│ └── components/  
+├── README.md  
+└── docker-compose.yml # Optional for local integration  
 
 
 ---
 
-## 🚀 Getting Started (Local Development)
+## 🚀 Getting Started (Local Development)  
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/yourusername/Integrated-Solar-App.git
 cd Integrated-Solar-App
