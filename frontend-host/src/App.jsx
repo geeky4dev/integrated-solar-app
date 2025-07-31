@@ -10,7 +10,7 @@ const apps = [
 function App() {
   return (
     <div className="container mt-4">
-      <h1 className="mb-4">🌞 Intergrated Solar App</h1>
+      <h1 className="mb-4">🌞 Integrated Solar App</h1>
       <div className="row">
         {apps.map((app, index) => (
           <div key={index} className="col-md-6 mb-4">
