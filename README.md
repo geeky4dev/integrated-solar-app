@@ -58,8 +58,8 @@ Integrated-Solar-App/
 │ ├── package.json  
 │ ├── vite.config.js  
 │ └── src/  
-│ ├── App.jsx  
-│ └── components/  
+│ │ ├── App.jsx  
+│ │ └── components/  
 ├── README.md  
 └── docker-compose.yml # Optional for local integration  
 
